@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HotelItem</string>
+    <string name="show_request">Show request item</string>
+    <string name="post_request">Post request item</string>
+    <string name="myrequest_item_request_type">HOTEL_ITEM</string>
+    <string name="myrequest_housekeeping_type">CLEANING</string>
+    <string name="myrequest_late_check_out_type">LATECHECKOUT</string>
+    <string name="myrequest_extend_stay_type">EXTEND_STAY</string>
+    <string name="pending">PENDING</string>
+    <string name="canceled">CANCELLED</string>
+    <string name="completed">COMPLETED</string>
+</resources>
